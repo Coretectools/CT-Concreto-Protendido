@@ -9,7 +9,7 @@
 - [Carlos Magno Silva Carneiro]()
 - [Walfrido Valle]()
 
-Seja bem vindo a plataforma Concreto Protentido que é uma ferramenta educacional 4.0 para ensino e aprendizagem de estruturas de concreto protendido. Essa ferramenta é mais uma das inovações desenvolvidas pelo Grupo de Pesquisas e Estudos em Engenharia (GPEE) da Universidade Federal de Catalão (UFCAT). 
+Seja bem vindo a plataforma Concreto Protentido que é uma ferramenta educacional 4.0 para ensino e aprendizagem de estruturas de concreto protendido. Essa ferramenta é mais uma das inovações desenvolvidas pelo Grupo de Pesquisas e Estudos em Engenharia (GPEE) da Universidade Federal de Catalão (UFCAT). O projeto de pesquisa que dá base para esse _software_ é o projeto PI02801-2018: DESENVOLVIMENTO DE UMA PLATAFORMA MULTIDISCIPLINAR DE TRABALHO VOLTADA A ENGENHARIA atualmente coordenado pelo [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114). 
 
 Aqui vocês poderá ter acesso a relatórios de cálculo de peças de concreto protendido como também manipular as entradas de dados para desenvolver o seu próprio projeto em concreto protendido.
 
