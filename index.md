@@ -7,7 +7,7 @@
 - [Prof. Thiago Jabur Bittar](http://lattes.cnpq.br/9281027127027716)
 - [Walter Albergaria Junior]()
 - [Carlos Magno Silva Carneiro]()
-- [Walter Valle]()
+- [Walfrido Valle]()
 
 Seja bem vindo a plataforma Concreto Protentido que é uma ferramenta educacional 4.0 para ensino e aprendizagem de estruturas de concreto protendido. Essa ferramenta é mais uma das inovações desenvolvidas pelo Grupo de Pesquisas e Estudos em Engenharia (GPEE) da Universidade Federal de Catalão (UFCAT). 
 
