@@ -22,7 +22,7 @@ Para entrar em contato com nosso time: _coretectools@gmail.com_
 Caso já seja usuário e deseja aprender um pouco mais em como usar clique na calculadora desejada:
 
 > Ferramentas para perdas de protensão
-1. [Atrito]()
+1. [Atrito](https://coretectools.github.io/CT-Concreto-Protendido/atrito.html)
 2. [Deformação na ancoragem por escorregamento]() 
 3. [Deformação inicial]()
 4. [Fluência no concreto]()
